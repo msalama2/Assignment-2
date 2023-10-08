@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Animal",
+      "request": "launch",
+      "mainClass": "Animal",
+      "projectName": "Assignment 2_bb54e983"
+    },
+    {
+      "type": "java",
+      "name": "today",
+      "request": "launch",
+      "mainClass": "today",
+      "projectName": "Assignment 2_bb54e983"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mgabraeil/Library/Mobile Documents/com~apple~CloudDocs/Oakland University 2022-N:A/Sophomore Year Fall 2023-Winter 2024/1st Semester/OOC-2300 Lecture/Assignment 2",
+      "program": "/Users/mgabraeil/Library/Mobile Documents/com~apple~CloudDocs/Oakland University 2022-N:A/Sophomore Year Fall 2023-Winter 2024/1st Semester/OOC-2300 Lecture/Assignment 2/build/Debug/outDebug"
+    }
+  ]
+}

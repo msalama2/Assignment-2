@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mgabraeil/Library/Mobile Documents/com~apple~CloudDocs/Oakland University 2022-N:A/Sophomore Year Fall 2023-Winter 2024/1st Semester/OOC-2300 Lecture/Assignment 2",
+      "program": "/Users/mgabraeil/Library/Mobile Documents/com~apple~CloudDocs/Oakland University 2022-N:A/Sophomore Year Fall 2023-Winter 2024/1st Semester/OOC-2300 Lecture/Assignment 2/build/Debug/outDebug"
+    }
+  ]
+}
